@@ -1,4 +1,4 @@
-# Hi there, I'm lauritskarl! 👋
+# Karl Hans Laurits
 
 I'm a student at TalTech University studying Systems Administration.
 I have a strong passion for Linux systems and am well-versed in various distributions,
